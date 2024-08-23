@@ -1,0 +1,12 @@
+node_modules/
+.next/
+build/
+dist/
+out/
+public/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+vite.config.ts
+next.config.js
+tsconfig.json
